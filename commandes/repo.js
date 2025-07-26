@@ -9,7 +9,7 @@ const formatNumber = (num) => num.toLocaleString();
 
 const fetchGitHubRepoDetails = async () => {
     try {
-        const repo = 'Charleskenya1/CHARLESKE-XMD';
+        const repo = 'romanuzkenya/Kijana-mdogo';
         const response = await axios.get(`https://api.github.com/repos/${repo}`);
         const { name, description, forks_count, stargazers_count, watchers_count, open_issues_count, owner, license } = response.data;
         return {
