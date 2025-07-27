@@ -9,7 +9,7 @@ const formatNumber = (num) => num.toLocaleString();
 
 const fetchGitHubRepoDetails = async () => {
     try {
-        const repo = 'romanuzkenya/Kijana-mdogo';
+        const repo = 'Charlesofficial01/CHARLES-XMD';
         const response = await axios.get(`https://api.github.com/repos/${repo}`);
         const { name, description, forks_count, stargazers_count, watchers_count, open_issues_count, owner, license } = response.data;
         return {
@@ -29,7 +29,7 @@ const fetchGitHubRepoDetails = async () => {
     }
 };
 
-const commands = ["git", "repo", "script", "sc"];
+const commands = ["github", "repo", "script", "sc"];
 
 commands.forEach((command) => {
     zokou({ nomCom: command, categorie: "GitHub" }, async (dest, zk, commandeOptions) => {
