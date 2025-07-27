@@ -5,7 +5,7 @@ const { zokou } = require(__dirname + "/../framework/zokou");
 // Configuration - Easily modifiable constants
 const CONFIG = {
     CHANNEL_JID: "https://whatsapp.com/channel/0029Vao2hgeChq6HJ5bmlZ3K",
-    REPO_OWNER: "romanuzkrnya",
+    REPO_OWNER: "romanuzkenya",
     REPO_NAME: "kijana-mdogo",
     COMMANDS: ["github", "repo", "script", "sc"],
     TIMEZONE: "Africa/Nairobi", // Example timezone
