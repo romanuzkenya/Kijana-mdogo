@@ -2,7 +2,7 @@
 
 *Quick Links*
 
-<a href="https://github.com/your-username/kijana-mdogo/fork" target="_blank"><img src="https://img.shields.io/badge/FORK%20REPO-blue?style=for-the-badge&logo=github" alt="FORK REPO"></a>
+<a href="https://github.com/romanuzkenya/kijana-mdogo/fork" target="_blank"><img src="https://img.shields.io/badge/FORK%20REPO-blue?style=for-the-badge&logo=github" alt="FORK REPO"></a>
 <a href="https://github.com/your-username/kijana-mdogo/stargazers" target="_blank"><img src="https://img.shields.io/badge/STAR%20REPO-blue?style=for-the-badge&logo=github" alt="STAR REPO"></a>
 <a href="https://pairing-website.com" target="_blank"><img src="https://img.shields.io/badge/PAIRING%20WEBSITE-green?style=for-the-badge" alt="PAIRING WEBSITE"></a>
 <a href="https://session-site.com" target="_blank"><img src="https://img.shields.io/badge/SESSION%20SITE-orange?style=for-the-badge" alt="SESSION SITE"></a>
