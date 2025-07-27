@@ -18,7 +18,7 @@ const formatNumber = (num) => num.toLocaleString();
 const fetchGitHubRepoDetails = async () => {
     try {
         const response = await axios.get(
-            `https://api.github.com/repos/${CONFIG.romanuzkenya}/${CONFIG.kijanamdogo}`,
+            `https://api.github.com/repos/${CONFIG.REPO_OWNER}/${CONFIG.REPO_NAME}`,
             {
                 headers: {
                     'User-Agent': 'Charles-XMD-Bot/1.0',
