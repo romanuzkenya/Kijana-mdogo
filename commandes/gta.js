@@ -24,7 +24,7 @@ zokou({
       'image': {
         'url': _0x93b128
       },
-      'caption': "*powered by CHARLESKE XMD*"
+      'caption': "*powered by CHARLES XMD*"
     }, {
       'quoted': _0x4eb9fe
     });
