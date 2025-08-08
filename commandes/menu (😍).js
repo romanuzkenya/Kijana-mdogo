@@ -40,12 +40,12 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ┃⊛│◆ 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
 ┃⊛│◆ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : charles
 ┃⊛│◆ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 : ${cm.length}
-┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : CHARLES XMD
+┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : STARLIGHT AI
 ┃⊛└────••••────➻
 ╰─━━━━══──══━━━❂\n${readmore}
 `;
 
-    let menuMsg = `CHARLES XMD`;
+    let menuMsg = `STARLIGHT AI`;
     
     for (const cat in coms) {
         menuMsg += `
@@ -71,7 +71,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
             contextInfo: {
                 mentionedJid: [senderName],
                 externalAdReply: {
-                    title: "CHARLES XMD MENU LIST",
+                    title: "STARLIGHT AI MENU LIST",
                     body: "I have more tap to follow channel",
                     thumbnailUrl: "https://files.catbox.moe/bhczj9.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029Vao2hgeChq6HJ5bmlZ3K",
