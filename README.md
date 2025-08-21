@@ -10,7 +10,7 @@
 
 <a href="https://render.com/deploy?repo=https://github.com/romanuzkenya/kijana-mdogo" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20RENDER-blue?style=for-the-badge&logo=render" alt="Deploy to Render"></a>
 <a href="https://heroku.com/deploy?template=https://github.com/romanuzkenya/kijana-mdogo" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-purple?style=for-the-badge&logo=heroku" alt="Deploy to Heroku"></a>
-<a href="https://railway.app/new/template?template=https://github.com/romanuzkenya/kijana-mdogo" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20RAILWAY-pink?style=for-the-badge&logo=railway" alt="Deploy to Railway"></a>
+<a href="https://railway.app/new/template?template=https://github.com/romanuzkenya/Starlight-AI" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20RAILWAY-pink?style=for-the-badge&logo=railway" alt="Deploy to Railway"></a>
 <a href="https://panel.com/deploy?repo=https://github.com/romanuzkenya/kijana-mdogo" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20PANEL-green?style=for-the-badge" alt="Deploy to Panel"></a>
 
 *Other Options*
